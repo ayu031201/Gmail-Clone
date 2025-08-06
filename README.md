@@ -1,4 +1,4 @@
-# Gmail Clone 📧
+# Gmail Clone <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="30" height="30" style="vertical-align: bottom;"/>
 
 A modern, fully functional Gmail clone built with React.js and Firebase, featuring real-time email composition, display, and management capabilities.
 
