@@ -10,24 +10,13 @@ A modern, fully functional Gmail clone built with React.js and Firebase, featuri
 
 ### Core Functionality
 - **Real-time Email Management** - Compose, send, and view emails instantly
-- **Responsive Design** - Optimized for desktop and mobile devices  
 - **Firebase Integration** - Real-time database for email storage
 - **Dynamic Email List** - View emails with timestamps and sender information
 - **Email Details View** - Full email reading experience with navigation
-- **Sample Data** - Pre-loaded with realistic sample emails for demonstration
-
-### User Interface
-- **Gmail-inspired Design** - Familiar and intuitive interface
-- **Material-UI Components** - Professional icons and interactive elements
-- **Tabbed Email Organization** - Primary, Promotions, and Social sections
-- **Search Functionality** - Gmail-style search bar (UI ready)
-- **Sidebar Navigation** - Quick access to Inbox, Starred, Sent, and Drafts
 
 ### Technical Features
 - **React Router** - Smooth navigation between email list and individual emails
 - **Form Validation** - Robust email composition with required field validation
-- **Error Handling** - Graceful error management for Firebase operations
-- **Optimistic Updates** - Immediate UI updates for better user experience
 
 ## 🛠️ Tech Stack
 
