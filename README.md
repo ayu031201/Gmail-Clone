@@ -101,63 +101,6 @@ src/
 └── index.js               # Application entry point
 ```
 
-## 🔥 Key Components
-
-### App.jsx
-- Main application container
-- Manages global email state
-- Handles routing between email list and individual emails
-- Integrates sample data with Firebase data
-
-### EmailList.jsx
-- Displays paginated list of emails
-- Implements email filtering by categories
-- Handles timestamp formatting and display
-- Responsive email count indicator
-
-### SendMail.jsx
-- Modal-based email composition
-- Form validation with React Hook Form
-- Real-time Firebase integration
-- Optimistic UI updates
-
-### Mail.jsx
-- Individual email reading interface
-- Email metadata display (sender, timestamp)
-- Navigation controls (back, archive, delete, etc.)
-- Print and window management options
-
-## 🚀 Deployment
-
-This project is deployed on Vercel. To deploy your own version:
-
-1. **Fork the repository**
-2. **Connect to Vercel**
-   - Import your forked repository to Vercel
-   - Configure environment variables for Firebase
-3. **Deploy**
-   - Vercel will automatically build and deploy your application
-
-## 📱 Responsive Design
-
-The application is fully responsive and works seamlessly across:
-- **Desktop** - Full-featured experience with sidebar navigation
-- **Tablet** - Optimized layout for medium screens
-- **Mobile** - Touch-friendly interface with mobile-first design
-
-## 🔮 Future Enhancements
-
-- [ ] User Authentication & Authorization
-- [ ] Email Threading/Conversations
-- [ ] Attachment Support
-- [ ] Advanced Search & Filtering
-- [ ] Labels & Folders Management
-- [ ] Dark Mode Theme
-- [ ] Email Templates
-- [ ] Keyboard Shortcuts
-- [ ] Offline Support with Service Workers
-- [ ] Push Notifications
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes:
@@ -177,15 +120,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Ayush Kumar**
 - GitHub: [@ayu031201](https://github.com/ayu031201)
 - Email: ayu.kr2001@gmail.com
-
-## 🙏 Acknowledgments
-
-- Gmail for design inspiration
-- Firebase for backend services
-- Material-UI for component library
-- React community for excellent documentation
-- Vercel for seamless deployment
-
+  
 ---
 
 ⭐ **If you found this project helpful, please consider giving it a star!** ⭐
