@@ -17,7 +17,7 @@ function Header() {
         </IconButton>
 
         <img
-          src="gmail-icon.png"
+          src="/gmail-icon.png"
           alt="Gmail"
           className="ml-3 h-6 w-auto object-contain"
         />
@@ -52,5 +52,6 @@ function Header() {
     </div>
   );
 }
+
 
 export default Header;
